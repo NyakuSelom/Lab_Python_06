@@ -27,11 +27,12 @@ class player:
 
     
 
-Torres = player('Fernando','Torres')
-Torres.add_score('2012/06/26',0)
-Torres.add_score('2012/06/26',0)
-Torres.add_score('2012/06/26',1)
-Torres.add_score('2012/06/26',0)
+#Torres = player('Fernando','Torres',spain.name)
+#Ronaldo = player('Cristiano','Ronaldo',portugal.name)
+#Torres.add_score('2012/06/26',0)
+#Torres.add_score('2012/06/26',0)
+#Torres.add_score('2012/06/26',1)
+#Torres.add_score('2012/06/26',0)
 
-Torres.average_score()
-Torres.total_score()
+#Torres.average_score()
+#Torres.total_score()
